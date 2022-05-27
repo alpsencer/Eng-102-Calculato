@@ -20,7 +20,7 @@ function show_result(){
     else if(total >=85.5){
         document.querySelector(".gra").innerHTML = "b+";
     }
-    else if(total >=82.5){
+    else if(total >=81.5){
         document.querySelector(".gra").innerHTML = "b";
     }
     else if(total >=77.5){

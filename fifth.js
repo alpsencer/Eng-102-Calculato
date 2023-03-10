@@ -49,7 +49,7 @@ function show_result(){
     document.querySelector(".per").innerHTML = total.toFixed(2);;
 
     if(total >= 77.5){
-        document.querySelector(".result h2").innerHTML = "CONGRAGULATIONS"
+        document.querySelector(".result h2").innerHTML = "CONGRATULATIONS"
     }
 
 }
